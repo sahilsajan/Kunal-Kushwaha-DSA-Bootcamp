@@ -10,7 +10,7 @@ public class RectangleArea {
         System.out.print("Enter the length of base: ");
         double base = sc.nextDouble();
         System.out.print("The area of the rectangle is: ");
-        double area = 2 * (height * base);
+        double area = (height * base);
         System.out.print(area);
     }
 }
