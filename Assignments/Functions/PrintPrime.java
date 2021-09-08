@@ -26,6 +26,5 @@ public class PrintPrime {
         System.out.print("Enter end number: ");
         int end = sc.nextInt();
         prime(start, end);
-
     }
 }
